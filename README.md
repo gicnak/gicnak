@@ -37,31 +37,16 @@ I am a **software developer** graduate at FPT Polytechnic. I am a passionate abo
 ## 🔥 GitHub Stats 🔥
 
 <div align=center>
-  <a href="#" title="@Ngcoo.Giapw_">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caongocgiap&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="@Ngcoo.Giapw_">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=caongocgiap&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gicnak&theme=react&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gicnak&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ##
 
-<div align="center">Let's connect and chat with me! Open to anything under the sun.</div>
-<br>
-<div align="center">
-  <a href="https://facebook.com/ngcoo.giapw" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ngcoogiapw" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:giaptapcode.dev@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email icon"/>
-  </a>
-</div>
+<p align="center">Let's connect and chat with me! Open to anything under the sun.</p>
+
+<p align="center"><a href="https://facebook.com/ngcoo.giapw" target="_blank" title="Facebook - Cao Ngọc Giáp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook logo"/></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/ngcoogiapw" target="_blank" title="LinkedIn - Cao Ngọc Giáp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:giaptapcode.dev@gmail.com" target="_blank" title="Email: giaptapcode.dev@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email icon"/></a></p>
 
 
 

@@ -1,4 +1,4 @@
-# 🌟 Cao Ngoc Giap — Intern Backend Developer (Java/Spring Boot)
+# 🌟 Cao Ngoc Giap — Java / Spring Boot & React / TS Developer
 
 ### 👨‍💻 About Me
 
